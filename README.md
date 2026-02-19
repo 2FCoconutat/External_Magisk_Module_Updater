@@ -3,23 +3,22 @@ Auto update Magisk module package
 ##Magisk 模块自动更新工具 v1.0.0
 
 这是 Magisk 模块自动更新工具的第一个正式版本 🎉
+也是我的第一个作品 感谢deepseek的帮助！！！
 
 ###  主要功能
 
 - 图形界面批量管理 Magisk 模块
 - 基于 `updateJson` 自动检查更新
-- 支持递归扫描和自动备份
+- 支持递归扫描和自动备份功能
 - 配置持久化，记住上次设置
 - 实时显示更新日志
+###  为何创建
+
+- 对于存储在外部设备的模块安装包进行更方便地更新操作
 
 ### 📥 下载
 
--Windows **[Magisk模块自动更新工具.exe](链接)** - 便携版，直接运行
-  
-
-### 🔧 系统要求
-
-- Windows 不知道哪个版本
+-Windows **[Magisk模块自动更新工具.exe](链接)*https://github.com/2FCoconutat/External_Magisk_Module_Updater/releases/download/v1.0.0/Magisk.exe* - 便携版，直接运行
  
 ### ⚠️ 注意事项
 
