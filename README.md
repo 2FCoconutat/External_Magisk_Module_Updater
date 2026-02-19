@@ -18,7 +18,7 @@ Auto update Magisk module package
 
 ### 📥 下载
 
--Windows- **[Magisk模块自动更新工具.exe]([(https://github.com/2FCoconutat/External_Magisk_Module_Updater/releases/download/v1.0.0/External_Magisk_Module_Updater.exe)]** - 便携版，直接运行 便携版，直接运行
+-Windows- **[Magisk模块自动更新工具.exe][Releases](https://github.com/2FCoconutat/External_Magisk_Module_Updater/releases/tag/v1.0.0) ** - 便携版，直接运行
  
 ### ⚠️ 注意事项
 
