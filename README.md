@@ -1,6 +1,6 @@
 # External_Magisk_Module_Updater
 Auto update Magisk module package
-##Magisk 模块自动更新工具 v1.0.0
+##Magisk 模块自动更新工具 v1.0.0 实现magisk模块自动更新
 
 这是 Magisk 模块自动更新工具的第一个正式版本 🎉
 也是我的第一个作品 感谢deepseek的帮助！！！
@@ -12,6 +12,7 @@ Auto update Magisk module package
 - 支持递归扫描和自动备份功能
 - 配置持久化，记住上次设置
 - 实时显示更新日志
+  
 ### 🤔为何创建
 
 - 可以对于存储在外部设备的尚未安装的模块包进行更新操作
